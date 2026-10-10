@@ -1,4 +1,4 @@
-#Bu ödev Muhammed YILMAZ ın öedevidir.
+#Bu ödev Muhammed YILMAZ ın ödevidir.
 
 
 import cv2
